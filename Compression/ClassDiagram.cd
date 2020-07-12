@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Decoder">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAQAAAAAACAAAAAAAAEAABgAAAAAACAAAA=</HashCode>
+      <FileName>Decoder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encoder">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAiAAAAAAAAAAAAAAAAAAAAAAEAAAgAABAAAAAAAA=</HashCode>
+      <FileName>Encoder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LZ77">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAiIAAAAAAAAAAAAAAAEAAGAAEQAAggABEQAAAAAA=</HashCode>
+      <FileName>LZ77.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LZ77Decoder">
+    <Position X="11.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAIAEAAGAAEAAAgAEAEAACAAAA=</HashCode>
+      <FileName>LZ77Decoder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Node">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAIAAAQoAAAACAAEgQAA=</HashCode>
+      <FileName>Node.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShannonFano">
+    <Position X="6" Y="1" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="ShannonFano::Symbol" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ShannonFano.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAQAAAAABAAQAAAAAABAAQQIAAAAAQAAAA=</HashCode>
+      <FileName>ShannonFano.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

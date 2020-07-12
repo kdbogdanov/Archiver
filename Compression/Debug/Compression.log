@@ -1,0 +1,26 @@
+﻿  Decoder.cpp
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\Decoder.cpp(47,30): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\Decoder.cpp(48,31): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\Decoder.cpp(49,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Encoder.cpp
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\Encoder.cpp(29,30): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\Encoder.cpp(30,29): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\Encoder.cpp(45,28): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\main.cpp(108,20): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\main.cpp(223,22): warning C4018: <: несоответствие типов со знаком и без знака
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\main.cpp(227,22): warning C4018: <: несоответствие типов со знаком и без знака
+  LZ77.cpp
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\LZ77.cpp(9,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\LZ77.cpp(10,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\LZ77.cpp(27,21): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\LZ77.cpp(32,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\LZ77.cpp(55,91): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\LZ77.cpp(59,95): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  LZ77Decoder.cpp
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\LZ77Decoder.cpp(95,20): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Compression\LZ77Decoder.cpp(108,20): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  Node.cpp
+  ShannonFano.cpp
+  Создание кода...
+  Compression.vcxproj -> Z:\Study_projects\HSE\2_course\Algos\Semestr_2\KDZ\KDZ\Debug\Compression.exe
